@@ -4,106 +4,83 @@
 #   photo: 图片路径
 #   job: 职位信息 (如果没有就写 "待补充")
 
-- name: 蒋逸伦
+- name: 蒋逸伦 Yilun Jiang
   photo: assets/images/graduate/20241228_蒋逸伦.jpg
 
-- name: 龚秋虎
+- name: 龚秋虎 Qiuhu Gong
   photo: assets/images/graduate/龚秋虎_Intel工牌.jpg
-  job: Intel项目6期组长
 
-- name: 严茹丹
+- name: 严茹丹 Rudan Yan
   photo: assets/images/graduate/严茹丹.jpg
-  job: Intel项目6期组长
 
-- name: 余乐
+- name: 余乐 Le Yu
   photo: assets/images/graduate/余乐.jpg
-  job: Intel项目1期组长
 
-- name: 刘鹏宇
+- name: 刘鹏宇 Pengyu Liu
   photo: assets/images/graduate/刘鹏宇01.jpg
-  job: Intel项目5/6期组长
 
-- name: 吴警彤
+- name: 吴警彤 Jingtong Wu
   photo: assets/images/graduate/吴警彤.jpg
-  job: Intel项目7期组长
 
-- name: 周耀海
+- name: 周耀海 Yaohai Zhou
   photo: assets/images/graduate/周耀海.jpg
-  job: Intel项目6期核心骨干
 
-- name: 岳畅
+- name: 岳畅 Chang Yue
   photo: assets/images/graduate/岳畅.jpg
-  job: Intel项目3期组长
 
-- name: 廖本成
+- name: 廖本成 Bencheng Liao
   photo: assets/images/graduate/廖本成.jpg
-  job: Intel项目2/3期核心骨干
 
-- name: 张宇
+- name: 张宇 Yu Zhang
   photo: assets/images/graduate/张宇.jpg
-  job: Intel项目7期组长
 
-- name: 张鑫
+- name: 张鑫 Xin Zhang
   photo: assets/images/graduate/张鑫.jpg
-  job: Intel项目3期组长
 
-- name: 李可
+- name: 李可 Ke Li
   photo: assets/images/graduate/李可.jpg
-  job: Intel项目7期核心骨干
 
-- name: 李瑞堃
+- name: 李瑞堃 Ruikun Li
   photo: assets/images/graduate/李瑞堃.jpg
-  job: Intel项目8期组长
 
-- name: 杨豪迈
+- name: 杨豪迈 Haomai Yang
   photo: assets/images/graduate/杨豪迈.png
-  job: Intel项目4期组长
 
-- name: 申牧原
+- name: 申牧原 Muyuan Shen
   photo: assets/images/graduate/申牧原.png
-  job: Intel项目5期核心骨干
 
-- name: 肖杰婷
+- name: 肖杰婷 Jieting Xiao
   photo: assets/images/graduate/肖杰婷.jpg
 
-- name: 苏秦
+- name: 苏秦 Qin Su
   photo: assets/images/graduate/苏秦.png
-  job: Intel项目6期组长
 
-- name: 董浣羽
+- name: 董浣羽 Huanyu Dong
   photo: assets/images/graduate/董浣羽.jpg
-  job: Intel项目5/6期核心骨干
 
-- name: 赵乐宇
+- name: 赵乐宇 Leyu Zhao
   photo: assets/images/graduate/赵乐宇.jpg
 
-- name: 邓钰霆
+- name: 邓钰霆 Yuting Deng
   photo: assets/images/graduate/邓钰霆.jpg
-  job: Intel项目2期组长
 
-- name: 郭浩
+- name: 郭浩 Hao Guo
   photo: assets/images/graduate/郭浩.jpg
-  job: Intel项目3期核心骨干
 
-- name: 郭潇俊
+- name: 郭潇俊 Xiaojun Guo
   photo: assets/images/graduate/郭潇俊.jpg
-  job: Intel项目4期组长
 
-- name: 阴浩
+- name: 阴浩 Hao Yin
   photo: assets/images/graduate/阴浩.jpg
-  job: Intel项目2期组长
 
-- name: 陈泽恺
+- name: 陈泽恺 Zekai Chen
   photo: assets/images/graduate/陈泽恺.jpg
 
-- name: 项银强
+- name: 项银强 Yinqiang Xiang
   photo: assets/images/graduate/项银强.png
-  job: Intel项目7期组长
 
-- name: 高信
+- name: 高信 Xin Gao
   photo: assets/images/graduate/高信.jpg
-  job: Intel项目8期组长
 
-- name: 高培立
+- name: 高培立 Peili Gao
   photo: assets/images/graduate/高培立.jpg
-  job: Intel项目6期组长

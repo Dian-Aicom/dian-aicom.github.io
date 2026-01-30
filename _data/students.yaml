@@ -6,27 +6,27 @@
 
 - name: 杨美子 Meizi Yang
   photo: assets/images/members/ymz.jpg
-  research: 
+  research: Position
 
 - name: 刘越晗 Yuehan Liu
   photo: assets/images/members/lyh.jpg
-  research: 
+  research: GNN
 
 - name: 刘力扬 Liyang Liu
   photo: assets/images/members/lly.jpg
-  research: 
+  research: Position
 
 - name: 董嘉城 Jiacheng Dong
   photo: assets/images/members/djc.jpg
-  research: 
+  research: Position
 
 - name: 王睿秋 Ruiqiu Wang
   photo: assets/images/members/wrq.jpg
-  research: 
+  research: Position
 
 - name: 张鲁嘉 Lujia Zhang
   photo: assets/images/members/zlj.jpg
-  research: 
+  research: Handover
 
 - name: 刘欣澜 Xinlan Liu
   photo: assets/images/members/lxl.jpg
@@ -34,15 +34,15 @@
 
 - name: 容国翔 Guoxiang Rong
   photo: assets/images/members/rgx.jpg
-  research: 
+  research: Position
 
 - name: 周子航 Zihang Zhou
   photo: assets/images/members/zzh.jpg
-  research: 
+  research: Position
 
 - name: 罗佳良 Jialiang Luo
   photo: assets/images/members/ljl.jpg
-  research: 
+  research: GNN
 
 - name: 孔凌峰 Lingfeng Kong
   photo: assets/images/members/klf.jpg
