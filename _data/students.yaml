@@ -4,46 +4,46 @@
 #   photo: 图片路径 (assets/images/members/xxx.jpg)
 #   research: 研究方向
 
-- name: 杨美子
+- name: 杨美子 Meizi Yang
   photo: assets/images/members/ymz.jpg
   research: 
 
-- name: 刘越晗
+- name: 刘越晗 Yuehan Liu
   photo: assets/images/members/lyh.jpg
   research: 
 
-- name: 刘力扬
+- name: 刘力扬 Liyang Liu
   photo: assets/images/members/lly.jpg
   research: 
 
-- name: 董嘉城
+- name: 董嘉城 Jiacheng Dong
   photo: assets/images/members/djc.jpg
   research: 
 
-- name: 王睿秋
+- name: 王睿秋 Ruiqiu Wang
   photo: assets/images/members/wrq.jpg
   research: 
 
-- name: 张鲁嘉
+- name: 张鲁嘉 Lujia Zhang
   photo: assets/images/members/zlj.jpg
   research: 
 
-- name: 刘欣澜
+- name: 刘欣澜 Xinlan Liu
   photo: assets/images/members/lxl.jpg
   research: 
 
-- name: 容国翔
+- name: 容国翔 Guoxiang Rong
   photo: assets/images/members/rgx.jpg
   research: 
 
-- name: 周子航
+- name: 周子航 Zihang Zhou
   photo: assets/images/members/zzh.jpg
   research: 
 
-- name: 罗佳良
+- name: 罗佳良 Jialiang Luo
   photo: assets/images/members/ljl.jpg
   research: 
 
-- name: 孔凌峰
+- name: 孔凌峰 Lingfeng Kong
   photo: assets/images/members/klf.jpg
   research:

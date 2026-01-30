@@ -21,15 +21,16 @@ github: aicom
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    Intel组是华中科技大学Dian团队与 <a href="https://www.intel.cn/content/www/cn/zh/homepage.html" target="_blank">英特尔（中国）有限公司</a> 
-    和<a href="https://www.intel.cn/content/www/cn/zh/homepage.html" target="_blank">英特尔（中国）研究中心有限公司</a>合作，
-    聚焦于“AI+5G通信”应用创新的项目组。
+    The Intel group is a project group within the Dian Group at Huazhong University of Science and Technology, 
+    focusing on innovative applications of "AI + 5G communication."
   </p>
   <p>
-    Intel组将科研、教学、团队合作和创新人才培养相结合，旨在挖掘和培养一群靠谱、有自驱力和创造力的“AI+5G通信”应用领域的创新者！
+    The Intel group combines scientific research, teaching, teamwork, and the cultivation of innovative talent, 
+    aiming to discover and nurture a group of reliable, self-motivated, 
+    and creative innovators in the field of "AI + 5G communication" applications!
   </p>
 
-portrait_url: /assets/images/photos/intel.jpg
+portrait_url: /assets/images/photos/templogo.jpg
 portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
