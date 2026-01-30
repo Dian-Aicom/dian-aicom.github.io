@@ -1,0 +1,45 @@
+---
+layout: default
+title: Research Projects
+permalink: /projects/
+---
+
+<div class="container pt-5 pb-5">
+    <h2 class="mb-4 font-weight-bold">Research Projects</h2>
+    <div class="row">
+        
+        {% assign sorted_projects = site.projects | sort: 'date' | reverse %}
+        {% for project in sorted_projects %}
+        <div class="col-md-6 col-lg-4 mb-4">
+            <div class="card h-100 border-0 shadow-sm hover-shadow">
+                {% if project.image %}
+                <a href="{{ project.url | relative_url }}">
+                    <img src="{{ project.image | relative_url }}" class="card-img-top" alt="{{ project.title }}" style="height: 200px; object-fit: cover;">
+                </a>
+                {% endif %}
+                
+                <div class="card-body">
+                    <h5 class="card-title">
+                        <a href="{{ project.url | relative_url }}" class="text-dark text-decoration-none">
+                            {{ project.title }}
+                        </a>
+                    </h5>
+                    <p class="card-text text-muted small">
+                        {{ project.description | default: project.excerpt | strip_html | truncate: 80 }}
+                    </p>
+                </div>
+                <div class="card-footer bg-white border-0">
+                    <a href="{{ project.url | relative_url }}" class="btn btn-primary btn-sm btn-block">查看详情</a>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+
+    </div>
+</div>
+
+<style>
+/* 简单的鼠标悬停上浮效果 */
+.hover-shadow { transition: transform 0.3s ease, box-shadow 0.3s ease; }
+.hover-shadow:hover { transform: translateY(-5px); box-shadow: 0 10px 20px rgba(0,0,0,0.1) !important; }
+</style>
