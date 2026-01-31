@@ -52,5 +52,5 @@ authors:
 
 # 链接按钮 (自动生成对应的按钮)
 links:
-  Paper: https://www.overleaf.com/project/67ac832acec90268eb9109ca
+  Paper: https://doi.org/10.1109/ICCC62479.2024.10682041
 ---

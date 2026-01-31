@@ -1,9 +1,9 @@
 ---
 layout: project
-title: "5G Positioning"
-date: 2024-01-01
-author: "All"
-image: assets/images/photos/templotgo.jpg  # 封面图路径
+title: "Design of a 5G Network Localization Algorithm based on Reinforcement Learning"
+date: 2025
+author: "Liyang Liu, Jiacheng Dong, Ruiqiu Wang, GuoXiang Rong, Zihang Zhou"
+image: assets/images/photos/templogo.jpg  # 封面图路径
 description: "..." #用于列表页显示的简介
 ---
 
@@ -11,7 +11,7 @@ description: "..." #用于列表页显示的简介
 unknow
 
 ### Framework
-![架构图](/assets/images/photos/dian.jpg)
+![架构图]()
 
 ### Major Achievements
 - None

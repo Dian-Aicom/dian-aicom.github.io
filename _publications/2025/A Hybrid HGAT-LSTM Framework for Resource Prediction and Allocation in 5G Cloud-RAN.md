@@ -47,5 +47,5 @@ authors:
 
 # 链接按钮 (自动生成对应的按钮)
 links:
-  Paper: https://hustdian.feishu.cn/file/TRp2b9VLWo3U1ixAyftcSKQfnPd
+  Paper: https://doi.org/10.23919/APCC64555.2025.11279831
 ---
