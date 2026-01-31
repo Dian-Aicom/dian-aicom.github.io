@@ -15,7 +15,6 @@
 # in the templates via {{ site.myvariable }}.
 # Site settings
 title: "AICom Lab"
-email: "3264375166@qq.com"
 description: "AI + Communications Lab at HUST"
 baseurl: ""
 
